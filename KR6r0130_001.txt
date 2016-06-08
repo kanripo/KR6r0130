@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:42.820819
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:22
 #+TITLE: 廬山記
 #+PROPERTY: CBETA_ID T51n2095
 #+PROPERTY: ID KR6r0130
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2095
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0130_T_001-1024c> 
 #+PROPERTY: JUAN 1
 ¶
-No.2095¶
+No. 2095¶
 
-廬山記序
-:PROPERTIES:
-:head: 廬山記序
-:END:
-¶
+* 廬山記序¶
 ¶
 
-充祕閣校理李常序
 余昔者讀書山中。愛其泉石塔廟之　志之¶
 不詳遺古略近。或出於愚夫野老之語。言□¶
 辭贅。可取者無幾。將討論刪次之。未皇暇¶
@@ -41,7 +36,6 @@ No.2095¶
 
 充祕閣校理李常序¶
 
-江西劉渙序
 予雅愛廬山之勝。棄官歸南。遂得　之陽游¶
 覽既久。遇景亦多。或賦或錄。雜為　將欲¶
 次之。而未暇也。熙寧中。會陳令舉。以言事□¶
@@ -58,17 +52,12 @@ No.2095¶
 江西劉渙序。¶
 ¶
 ¶
-
- 廬山記卷第一¶
+廬山記卷第一¶
 ¶
 尚書屯田員外郎嘉禾¶
 陳舜俞令舉　撰¶
 
-1梕敘山水篇
-:PROPERTIES:
-:head: 梕敘山水篇第一
-:END:
-¶
+* 梕敘山水篇第一¶
 
 案太史公曰。余南登廬山。觀禹九江。前漢郊¶
 祀志云。乾封中。武帝浮江。自尋陽出。樅楊過¶
@@ -190,11 +179,7 @@ No.2095¶
 都昌三縣置南康軍。於是山南屬南康。山北¶
 屬江州矣。¶
 
-2敘山北
-:PROPERTIES:
-:head: 敘山北第二
-:END:
-¶
+* 敘山北第二¶
 
 由江州之南出德化門五里。至延壽院。舊名¶
 羅漢壇。過延壽院五里。至石塘橋。有濂溪。周¶
